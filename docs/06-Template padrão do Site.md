@@ -13,19 +13,14 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
 
 
 ## Tipografia
-![image](https://user-images.githubusercontent.com/34171313/236716947-35a1f784-9423-4c1f-8c3d-aa4a7473288e.png)
+![image](https://user-images.githubusercontent.com/34171313/236717902-19323a17-d14f-4bdc-a7ee-0d38e352ecd6.png)
+![image](https://user-images.githubusercontent.com/34171313/236717916-3e417be1-6e24-4cb5-b679-0afe9e752219.png)
+![image](https://user-images.githubusercontent.com/34171313/236717924-b3b7c6d8-3ac2-4939-9fd7-8b8405b43b92.png)
+![image](https://user-images.githubusercontent.com/34171313/236717935-237ffa3b-1d11-4a8b-aff6-08987130f404.png)
+![image](https://user-images.githubusercontent.com/34171313/236717947-8f989189-14ea-40fd-a5f5-3efa3f23f09a.png)
+![image](https://user-images.githubusercontent.com/34171313/236717956-9bee60b1-d46c-4964-994d-068219f164e7.png)
+![image](https://user-images.githubusercontent.com/34171313/236717974-6e23f765-ca56-4870-a872-01a194971c76.png)
+![image](https://user-images.githubusercontent.com/34171313/236717981-5b4f5b72-5683-49bc-b7fe-bd33eff63ff1.png)
 
-## Iconografia
-![image](https://user-images.githubusercontent.com/34171313/236717338-ad05e536-f49d-4d49-8a6e-7e8465c9efee.png)
 
-![image](https://user-images.githubusercontent.com/34171313/236717368-f471e803-14e8-4e55-8d92-2b1291771593.png)
 
-![image](https://user-images.githubusercontent.com/34171313/236717385-0655b7be-a468-4149-bc38-0692d28a723c.png)
-
-![image](https://user-images.githubusercontent.com/34171313/236717403-5586c624-b827-4e19-8507-c40e8f015115.png)
-
-![image](https://user-images.githubusercontent.com/34171313/236717456-95916b06-6825-48df-b9a6-276b170e8b9d.png)
-
-![image](https://user-images.githubusercontent.com/34171313/236717483-93e9cac2-fa8f-4a04-8c62-b0ef44b7cf67.png)
-
-![image](https://user-images.githubusercontent.com/34171313/236717498-07f28d4a-5099-4d76-8b90-221d70bbbdb6.png)
