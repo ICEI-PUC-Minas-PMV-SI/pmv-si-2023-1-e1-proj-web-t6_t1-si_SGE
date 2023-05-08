@@ -22,6 +22,8 @@ Formulários
 
 ## Tipografia
 ![image](https://user-images.githubusercontent.com/34171313/236717902-19323a17-d14f-4bdc-a7ee-0d38e352ecd6.png)
+
+## Iconografia
 ![image](https://user-images.githubusercontent.com/34171313/236717916-3e417be1-6e24-4cb5-b679-0afe9e752219.png)
 ![image](https://user-images.githubusercontent.com/34171313/236717924-b3b7c6d8-3ac2-4939-9fd7-8b8405b43b92.png)
 ![image](https://user-images.githubusercontent.com/34171313/236717935-237ffa3b-1d11-4a8b-aff6-08987130f404.png)
