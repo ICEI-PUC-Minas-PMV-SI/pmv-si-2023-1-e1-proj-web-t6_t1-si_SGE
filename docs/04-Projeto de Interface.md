@@ -19,6 +19,10 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 > - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
 
 
+![userflow](https://user-images.githubusercontent.com/34171313/236712503-6cdd069a-a32c-490d-95c0-0a446f23e0eb.jpg)
+
+
+
 ## Wireframes
 
 ![Exemplo de Wireframe](img/wireframe-example.png)
