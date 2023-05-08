@@ -1,8 +1,10 @@
 # Template padrão do site
 
+## Design
+
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
 
-Caixa dew login
+Caixa de login
 ![image](https://user-images.githubusercontent.com/34171313/236718284-e5cbd2af-5cdc-4c7e-ad66-c59053013120.png)
 
 Side bar
