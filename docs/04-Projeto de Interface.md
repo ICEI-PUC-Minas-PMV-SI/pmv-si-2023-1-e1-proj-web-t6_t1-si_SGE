@@ -59,14 +59,11 @@ Cursos > criar cursos
 ## Prototipo
 
 Login
-![image](https://user-images.githubusercontent.com/34171313/236714313-ae378281-d6a9-4341-8a2a-9534a8c8589d.png)
+
+![image](https://user-images.githubusercontent.com/34171313/236714492-3e28b2c9-2a24-4fdb-a8e0-d85237739a02.png)
+
+
 
 Painel de controle
 ![image](https://user-images.githubusercontent.com/34171313/236714297-52e12c8e-b194-425b-b56a-80af4c33f419.png)
-
-![image](https://user-images.githubusercontent.com/34171313/236714347-7ebb72d8-e622-4c7f-b90b-aa63ec4e7725.png)
-
-
-![image](https://user-images.githubusercontent.com/34171313/236714421-9fbcbe07-7a57-4a86-b6f4-dfddd8aea92d.png)
-
 
