@@ -2,14 +2,20 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+Caixa dew login
+![image](https://user-images.githubusercontent.com/34171313/236718284-e5cbd2af-5cdc-4c7e-ad66-c59053013120.png)
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+Side bar
+![image](https://user-images.githubusercontent.com/34171313/236718081-740cff36-f767-4b1c-99eb-a10b8245010e.png)
+
+Cards de curso
+![image](https://user-images.githubusercontent.com/34171313/236718113-0790a336-0352-46b0-acaa-45dac96fe444.png)
+
+Tabelas
+![image](https://user-images.githubusercontent.com/34171313/236718164-2f36ad81-31bf-4a01-89b5-5975d50d0d74.png)
+
+Formulários
+![image](https://user-images.githubusercontent.com/34171313/236718172-2b626fa8-318b-4cb2-86e4-fd1cd32148cc.png)
 
 
 ## Tipografia
