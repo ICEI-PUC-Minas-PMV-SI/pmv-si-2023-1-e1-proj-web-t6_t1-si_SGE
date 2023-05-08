@@ -25,29 +25,11 @@ Painel de controle
 Alunos
 ![image](https://user-images.githubusercontent.com/34171313/236713565-713ded21-530b-4ccc-999d-194f7b9866cd.png)
 
-Alunos > Adicionar aluno
-![image](https://user-images.githubusercontent.com/34171313/236713653-eb6b7c96-7fb1-471c-b21a-3a78890b634d.png)
-
-Alunos > Adicionar aluno
-![image](https://user-images.githubusercontent.com/34171313/236713682-83e4b4a0-a412-4365-b2b4-9f525dfade9b.png)
-
 Professores
 ![image](https://user-images.githubusercontent.com/34171313/236713703-c70f2a67-29a9-47d1-8582-02756fd70376.png)
 
-Professores  > adicionar professores
-![image](https://user-images.githubusercontent.com/34171313/236713736-046e8816-24f4-4eb8-9500-ff86eaf620e6.png)
-
-Professores > visualizar professores
-![image](https://user-images.githubusercontent.com/34171313/236713755-56cdcaf4-87ee-4c44-b555-5550d7d2d367.png)
-
 Turmas
 ![image](https://user-images.githubusercontent.com/34171313/236713794-85203f67-95bd-4691-8e5d-e06e484bb17e.png)
-
-Turma > Criar nova turma
-![image](https://user-images.githubusercontent.com/34171313/236713818-a86557dd-11bc-460a-a1ea-2df1981caddf.png)
-
-Turma > visualizar turma
-![image](https://user-images.githubusercontent.com/34171313/236713856-9eea234b-9adf-4860-8ca6-2a425007cfcf.png)
 
 Cursos
 ![image](https://user-images.githubusercontent.com/34171313/236713898-87a7ca0e-d746-4a64-8377-1b6d815a1a67.png)
@@ -61,9 +43,32 @@ Cursos > criar cursos
 Login
 ![image](https://user-images.githubusercontent.com/34171313/236715417-f4b6c013-6c05-40af-8fe9-ec41a3bbfb0e.png)
 
-
-
 Painel de controle
 ![image](https://user-images.githubusercontent.com/34171313/236714297-52e12c8e-b194-425b-b56a-80af4c33f419.png)
+
+Alunos
+![image](https://user-images.githubusercontent.com/34171313/236715541-8da50e52-1d23-4797-82cd-d5f631b3909d.png)
+
+Alunos > Adicionar aluno
+![image](https://user-images.githubusercontent.com/34171313/236715684-ba3ce2a7-770c-4465-842f-b01b346c7dcc.png)
+
+
+Professores
+![image](https://user-images.githubusercontent.com/34171313/236715622-bf98623b-66c6-4d75-95a7-d5f3a69d84e0.png)
+
+Professores  > adicionar professores
+![image](https://user-images.githubusercontent.com/34171313/236715740-61c13e4e-8673-4193-bdb2-9c3d38f05280.png)
+
+Turmas
+![image](https://user-images.githubusercontent.com/34171313/236715783-1872713c-c066-4f60-9e92-6907fad8dac8.png)
+
+Turma > Criar nova turma
+![image](https://user-images.githubusercontent.com/34171313/236715804-c538db06-437a-4c1e-b389-e9b81fe951c0.png)
+
+Cursos
+![image](https://user-images.githubusercontent.com/34171313/236715877-b4890e2b-0da4-4b04-bbbf-6cd148c9eb1a.png)
+
+Cursos > criar cursos
+![image](https://user-images.githubusercontent.com/34171313/236715906-1f4a8d15-9bf2-4e25-87b5-bec2b7bb140e.png)
 
 
